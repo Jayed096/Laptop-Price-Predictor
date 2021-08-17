@@ -1,1 +1,1 @@
-# Laptop-Price-Predictor (Demo):https://flightfareprediction01.herokuapp.com/predict
+# Laptop-Price-Predictor (Demo):https://laptop-price-predictor.herokuapp.com/ 
