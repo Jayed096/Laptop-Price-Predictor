@@ -22,7 +22,7 @@
 
 ## Some of screenshot af app 
 * Landing Page:
- ![Landing Page](githubimage/laptop 1.PNG)
+[Landing Page]:(https://github.com/Jayed096/Laptop-Price-Predictor/blob/main/githubimage/laptop%201.PNG)
 
 * Prediction Page:
 (githubimage/laptop 2.PNG)
