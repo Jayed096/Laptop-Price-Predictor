@@ -20,13 +20,6 @@
 ### Dataset Link:(https://www.kaggle.com/ionaskel/laptop-prices)
 ### Project Demo:(https://laptop-price-predictor.herokuapp.com/)
 
-## Some of screenshot af app 
-* Landing Page:
-[Landing Page]:(https://github.com/Jayed096/Laptop-Price-Predictor/blob/main/githubimage/laptop%201.PNG)
-
-* Prediction Page:
-(githubimage/laptop 2.PNG)
-
 
 
 
