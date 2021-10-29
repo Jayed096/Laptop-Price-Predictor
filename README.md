@@ -22,7 +22,7 @@
 
 ## Some of screenshot af app 
 [Landing Page]
-(laptop.PNG)
+(githubimage/laptop1.PNG)
 
 [Prediction Page]
 (laptop2.PNG)
