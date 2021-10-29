@@ -22,10 +22,10 @@
 
 ## Some of screenshot af app 
 * Landing Page:
-![Landing Page](githubimage/laptop 1.PNG)
+(githubimage/laptop 1.PNG)
 
 * Prediction Page:
-![Prediction Page](githubimage/laptop 2.PNG)
+(githubimage/laptop 2.PNG)
 
 
 
