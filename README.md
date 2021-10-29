@@ -21,9 +21,14 @@
 ### Project Demo:(https://laptop-price-predictor.herokuapp.com/)
 
 ## Some of screenshot af app 
+* Landing Page:
 ![Landing Page](githubimage/laptop 1.PNG)
 
+* Prediction Page:
 ![Prediction Page](githubimage/laptop 2.PNG)
+
+
+
 
 
 
